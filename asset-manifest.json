@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bmi-study-tool/static/css/main.e6c13ad2.css",
-    "main.js": "/bmi-study-tool/static/js/main.4de71360.js",
+    "main.js": "/bmi-study-tool/static/js/main.5e4bc4d8.js",
     "static/js/453.01337f1f.chunk.js": "/bmi-study-tool/static/js/453.01337f1f.chunk.js",
     "index.html": "/bmi-study-tool/index.html",
     "main.e6c13ad2.css.map": "/bmi-study-tool/static/css/main.e6c13ad2.css.map",
-    "main.4de71360.js.map": "/bmi-study-tool/static/js/main.4de71360.js.map",
+    "main.5e4bc4d8.js.map": "/bmi-study-tool/static/js/main.5e4bc4d8.js.map",
     "453.01337f1f.chunk.js.map": "/bmi-study-tool/static/js/453.01337f1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4de71360.js"
+    "static/js/main.5e4bc4d8.js"
   ]
 }
